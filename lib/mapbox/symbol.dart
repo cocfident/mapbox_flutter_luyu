@@ -26,7 +26,7 @@ class SymbolOptions {
     this.geometry, this.title, this.desc, this.poiImage,
   });
 
-  final int id;
+  final String id;
   final LatLng geometry;
   final String title;
   final String desc;
@@ -46,6 +46,7 @@ class SymbolOptions {
       title: changes.title ?? title,
       desc: changes.desc ?? desc,
       poiImage: changes.poiImage ?? poiImage,
+      id: changes.id ?? id,
     );
   }
 
@@ -62,6 +63,7 @@ class SymbolOptions {
     addIfPresent('title', title);
     addIfPresent('desc', desc);
     addIfPresent('poiImage', poiImage);
+    addIfPresent('id', id);
 
 
     return json;
