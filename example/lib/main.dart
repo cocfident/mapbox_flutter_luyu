@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:flutter/services.dart';
 import 'dart:ui';
+import 'package:mapbox_flutter_plugin/mapbox_gl.dart';
 
 
 
@@ -24,7 +25,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin example app'),
+          title: const Text('mapbox app'),
         ),
         body: Stack(
           children: <Widget>[
