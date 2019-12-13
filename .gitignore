@@ -6,3 +6,6 @@
 
 build/
 Podfile.lock
+
+.idea/
+.idea/workspace.xml
