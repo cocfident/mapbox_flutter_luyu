@@ -72,6 +72,8 @@ class _MyAppState extends State<MyApp> {
                 RaisedButton(
                   onPressed: () {
                     _mapboxMapController.addLine(LineOptions(
+                      lineColor: '#000000',
+                        lineWidth: 1,
                         geometry: [LatLng(39.895054,116.396314),LatLng(39.903755,116.397724),LatLng(39.896591,116.398311)]
                     ));
                   },
