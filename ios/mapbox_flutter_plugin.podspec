@@ -18,6 +18,10 @@ A new Flutter plugin.
   s.dependency 'Mapbox-iOS-SDK'
   s.dependency 'MJExtension'
 
+  s.resource_bundles = {
+    'mapbox_flutter_plugin_assets' => ['Assets/*']
+  }
+  
   s.ios.deployment_target = '10.0'
 end
 

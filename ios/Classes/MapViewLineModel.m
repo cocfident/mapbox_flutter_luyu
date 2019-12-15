@@ -9,8 +9,5 @@
 
 @implementation MapViewLineModel
 
-+ (NSDictionary *)mj_objectClassInArray{
-    return @{@"points":[MapViewCoordinateModel class]};
-}
 
 @end

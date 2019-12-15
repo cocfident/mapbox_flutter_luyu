@@ -2,26 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e56da85f-2cfe-4ca5-b416-9579b0885f45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/example_lib_main_dart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/example_lib_main_dart.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapSymbolModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapSymbolModel.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/MapSymbolModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/MapSymbolModel.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/.idea/runConfigurations/example_lib_main_dart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/.idea/runConfigurations/example_lib_main_dart.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Podfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/ios/Runner/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapboxFlutterPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapboxFlutterPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapBoxAnnotationView.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapBoxAnnotationView.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewCoordinateModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewCoordinateModel.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewLineModel.h" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewLineModel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewLineModel.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewLineModel.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewObject.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/Classes/MapViewObject.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/mapbox_flutter_plugin.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/ios/mapbox_flutter_plugin.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/lib/mapbox/controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/lib/mapbox/controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/lib/mapbox/symbol.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/lib/mapbox/symbol.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/mapbox_flutter_plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/mapbox_flutter_plugin/mapbox_flutter_plugin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/MapboxFlutterPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/MapboxFlutterPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/MapBoxAnnotationView.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/MapBoxAnnotationView.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/MapViewCoordinateModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/MapViewCoordinateModel.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/MapViewLineModel.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/MapViewLineModel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/MapViewLineModel.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/MapViewLineModel.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/MapViewObject.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/MapViewObject.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/mapbox_flutter_plugin.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/mapbox_flutter_plugin.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mapbox/controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mapbox/controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mapbox/symbol.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mapbox/symbol.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox_flutter_plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox_flutter_plugin.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -38,17 +49,29 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_26" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="4e069d14" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="367">
+              <caret line="88" column="111" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="111" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
-                <element signature="e#1010#2552#0" />
+                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#2635#3030#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mapbox/location.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#3134#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/mapbox/ui.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
+            <state relative-caret-position="-170">
               <caret line="11" column="69" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="69" />
               <folding>
                 <element signature="e#0#3898#0" expanded="true" />
@@ -69,10 +92,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/mapbox/controller.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="163">
+              <caret line="132" column="20" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mapbox/symbol.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
               <folding>
-                <element signature="e#0#5313#0" expanded="true" />
+                <element signature="e#0#1398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mapbox/callbacks.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mapbox/line.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#1331#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,11 +145,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/mapbox/mapbox_map.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="67" column="47" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="47" />
+            <state relative-caret-position="-1522">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding>
                 <element signature="e#0#4516#0" expanded="true" />
               </folding>
@@ -104,7 +157,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mapbox/camera.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#6604#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>waitForMap</find>
+      <find>onCreateMap</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,12 +185,14 @@
       <list>
         <option value="$PROJECT_DIR$/test/mapbox_flutter_plugin_test.dart" />
         <option value="$PROJECT_DIR$/lib/mapbox/mapbox_map.dart" />
+        <option value="$PROJECT_DIR$/lib/mapbox/controller.dart" />
+        <option value="$PROJECT_DIR$/lib/mapbox/symbol.dart" />
         <option value="$PROJECT_DIR$/example/lib/main.dart" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="48" />
     <option name="y" value="23" />
     <option name="width" value="1312" />
     <option name="height" value="830" />
@@ -132,46 +205,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="mapbox_flutter_luyu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapbox_flutter_luyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapbox_plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mapbox_plugin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="mapbox_flutter_luyu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapbox_flutter_luyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapbox_plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mapbox_plugin" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="mapbox_flutter_luyu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapbox_flutter_luyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapbox_plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mapbox_plugin" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="mapbox_flutter_luyu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapbox_flutter_luyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapbox_plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mapbox_plugin" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="mapbox_flutter_luyu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapbox_flutter_luyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapbox_plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mapbox_plugin" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="mapbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mapbox_flutter_luyu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapbox_flutter_luyu" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -212,10 +279,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="23" width="1312" height="830" extended-state="0" />
+    <frame x="48" y="23" width="1312" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27480316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27874017" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -224,8 +291,9 @@
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.18292683" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.23441735" />
-      <window_info anchor="bottom" id="Run" order="1" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.3292683" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" />
@@ -244,33 +312,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/mapbox_flutter_plugin.dart" />
-    <entry file="file://$PROJECT_DIR$/lib/mapbox/camera.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2391">
-          <folding>
-            <element signature="e#0#6604#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mapbox/location.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#3134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mapbox/symbol.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-497">
-          <folding>
-            <element signature="e#0#1398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/mapbox_flutter_plugin_test.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -281,46 +322,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mapbox/line.dart">
+    <entry file="file://$USER_HOME$/Downloads/MapBox_Flutter_plugin-master/example/lib/main.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/mapbox/camera.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="135">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding>
-            <element signature="e#0#1331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/MapBox_Flutter_plugin-master/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <element signature="e#1009#1410#0" />
-            <element signature="e#1109#1324#0" />
-            <element signature="e#1440#2172#0" />
-            <element signature="e#2202#2455#0" />
+            <element signature="e#0#6604#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/mapbox/ui.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
+        <state relative-caret-position="-170">
           <caret line="11" column="69" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="69" />
           <folding>
             <element signature="e#0#3898#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <element signature="e#1010#2552#0" />
           </folding>
         </state>
       </provider>
@@ -337,22 +355,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mapbox/controller.dart">
+    <entry file="file://$PROJECT_DIR$/lib/mapbox/mapbox_map.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="-1522">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding>
-            <element signature="e#0#5313#0" expanded="true" />
+            <element signature="e#0#4516#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mapbox/mapbox_map.dart">
+    <entry file="file://$PROJECT_DIR$/lib/mapbox/location.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="67" column="47" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="47" />
+        <state relative-caret-position="420">
+          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
           <folding>
-            <element signature="e#0#4516#0" expanded="true" />
+            <element signature="e#0#3134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mapbox/line.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#1331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mapbox/callbacks.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mapbox/controller.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="132" column="20" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mapbox/symbol.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#1398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="88" column="111" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="111" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#2635#3030#0" />
           </folding>
         </state>
       </provider>

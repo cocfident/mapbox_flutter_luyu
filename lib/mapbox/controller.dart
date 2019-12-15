@@ -67,6 +67,7 @@ class MapboxMapController extends ChangeNotifier {
   final int _id;
 
   Future<dynamic> _handleMethodCall(MethodCall call) async {
+
     switch (call.method) {
       case 'infoWindow#onTap':
         final String symbolId = call.arguments['symbol'];
@@ -76,11 +77,14 @@ class MapboxMapController extends ChangeNotifier {
         }
         break;
       case 'symbol#onTap':
+        print(call.method);
+        print(call.arguments);
         final String symbolId = call.arguments['symbol'];
         final Symbol symbol = _symbols[symbolId];
         if (symbol != null) {
           onSymbolTapped(symbol);
         }
+        onSymbolTapped(symbol);
         break;
       case 'map#onMapClick':
         final double x = call.arguments['x'];
@@ -111,6 +115,22 @@ class MapboxMapController extends ChangeNotifier {
         SymbolOptions.defaultOptions.copyWith(options);
     final String symbolId = await _channel.invokeMethod(
       'symbol#add',
+      <String, dynamic>{
+        'options': effectiveOptions._toJson(),
+      },
+    );
+    final Symbol symbol = Symbol(symbolId, effectiveOptions);
+    _symbols[symbolId] = symbol;
+    notifyListeners();
+    return symbol;
+  }
+
+//选中大头针
+  Future<Symbol> selectSymbol(SymbolOptions options) async {
+    final SymbolOptions effectiveOptions =
+    SymbolOptions.defaultOptions.copyWith(options);
+    final String symbolId = await _channel.invokeMethod(
+      'symbol#select',
       <String, dynamic>{
         'options': effectiveOptions._toJson(),
       },

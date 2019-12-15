@@ -28,24 +28,15 @@
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated{
     if (selected) {
-        
-        CGRect rect = self.frame;
-        rect.size = CGSizeMake(40, 40);
-       self.frame = rect;
-       self.layer.cornerRadius = 20.f;
-       self.clipsToBounds = YES;
-       self.backgroundColor = [UIColor redColor];
-         _titleLbl.frame = rect;
+
+       self.alpha = 1.0;
+      
+       
     }else{
-        CGRect rect = self.frame;
-        rect.size = CGSizeMake(32, 32);
-       self.frame = rect;
-       self.layer.cornerRadius = 16.f;
-       self.clipsToBounds = YES;
-       self.backgroundColor = [UIColor cyanColor];
-        _titleLbl.frame = rect;
+        self.alpha = 0.3;
+       
     }
-    
+ 
 }
 
 

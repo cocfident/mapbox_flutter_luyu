@@ -6,7 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "MapViewCoordinateModel.h"
 #include <MJExtension.h>
 
 NS_ASSUME_NONNULL_BEGIN
@@ -20,8 +19,8 @@ NS_ASSUME_NONNULL_BEGIN
 /** 线的透明度*/
 @property (nonatomic, assign) CGFloat lineOpacity;
 
-/** <#注释#>*/
-@property (nonatomic, strong)  NSArray<MapViewCoordinateModel *>  *points;
+/** 坐标列表*/
+@property (nonatomic, strong)  NSArray  *geometry;
 @end
 
 NS_ASSUME_NONNULL_END

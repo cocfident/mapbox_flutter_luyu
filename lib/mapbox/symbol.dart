@@ -46,6 +46,7 @@ class SymbolOptions {
       title: changes.title ?? title,
       desc: changes.desc ?? desc,
       poiImage: changes.poiImage ?? poiImage,
+      id: changes.id??id,
     );
   }
 
@@ -62,7 +63,7 @@ class SymbolOptions {
     addIfPresent('title', title);
     addIfPresent('desc', desc);
     addIfPresent('poiImage', poiImage);
-
+    addIfPresent('id', id);
 
     return json;
   }
