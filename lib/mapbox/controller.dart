@@ -142,7 +142,7 @@ class MapboxMapController extends ChangeNotifier {
   }
 
 
-  Future<List<Symbol>> addSymbolList(List<SymbolOptions> optionsList) async {
+  Future<List<dynamic>> addSymbolList(List<SymbolOptions> optionsList) async {
     List<dynamic> optionListParam = [];
     for (var options in optionsList) {
       final SymbolOptions effectiveOptions =
@@ -150,7 +150,7 @@ class MapboxMapController extends ChangeNotifier {
       optionListParam.add(effectiveOptions._toJson());
     }
 
-    final String symbolId = await _channel.invokeMethod(
+    final List<dynamic> symbolIds = await _channel.invokeMethod(
       'symbol#addList',
       <String, dynamic>{
         'optionsList': optionListParam,
@@ -159,7 +159,7 @@ class MapboxMapController extends ChangeNotifier {
     //final Symbol symbol = Symbol(symbolId, effectiveOptions);
     //_symbols[symbolId] = symbol;
     //notifyListeners();
-    return [];
+    return symbolIds;
   }
 
   /// Adds a line to the map, configured using the specified custom [options].
